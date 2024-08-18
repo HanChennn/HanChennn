@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanChennn&layout=compact&theme=tokyonight)
 -->
-- 🫡 I'm currently studying at ZJU-UIUC institute
-- 🔭 I’m currently working on my undergraduate final project, ECE448 AI project.
+- 🫡 I'm currently studying at the University of California San Diego, majoring in Computer Science
+- 🎓 I graduated from ZJU-UIUC, majoring in Electrical and Computer Engineering.
+- 🔭 I’m currently working on updating my resume, reviewing my past projects and looking for internships.
 - 🌱 I’m planning to take some computer graphics courses.
 - 💻 I'm also planning to look for an intern.
 - 📫 How to reach me: chankchen.02@gmail.com
